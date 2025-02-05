@@ -25,7 +25,7 @@ order: 4
 - **跨界思考**：从运维视角解读系统设计、可观测性、微服务架构等。  
 
 #### **找到我**  
-- **GitHub**: [@xuhang-dev](https://github.com/secret-deus)  
+- **GitHub**: [@secret-deus](https://github.com/secret-deus)  
 - **邮箱**: xuhang_zhongbai@163.com  
 - **技术社区**：活跃于 Kubernetes Slack 频道、linux.do 论坛等，欢迎交流！  
 
